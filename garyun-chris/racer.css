@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(255, 204, 102);
+}
+
+table td {
+  border: 5px solid black;
+  width: 60px;
+  height: 30px;
+}
+
+.playerName {
+
+
+}
+
+.player1 td.active {
+  background-color: #4eb4e6;
+}
+
+.player2 td.active {
+  background-color: #32457f;
+}

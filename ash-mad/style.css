@@ -1,0 +1,46 @@
+h1 {
+  Color: white;
+  font-size:100px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: white;
+  font-size: 40px;
+  font-style: italic;
+  margin-top: 10px;
+
+}
+
+h3 {
+  color: white;
+  font-size: 30px;
+
+}
+h4
+{
+  color: white;
+  font-size: 15px;
+
+}
+
+#madbutcher {
+  width: 750px;
+  height: 500px;
+}
+#dogblanket{
+  width: 750px;
+  height: 500px;
+}
+h1 {text-align: center}
+p {text-align: center}
+h2 {text-align: center}
+h3 {text-align: center}
+h4 {text-align: right}
+p {color: white;
+font-size: 25px;
+font-style: italic;}
+.red{
+  color:white;
+  font-size:50px;
+}

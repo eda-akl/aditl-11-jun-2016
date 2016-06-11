@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+text-align: center;
+text-shadow: 2px 2px black}
+h2 { color: black;
+text-align: center;
+text-shadow: 2px 2px white}
+
+h3 {color: white;
+  text-align: center;
+  text-shadow:2px 2px #ff0000;
+  text-decoration: underline;
+}
+h4 {text-align: center;}
+#corgi { display: block; margin: 0 auto; }
+
+
+
+#donkey {
+margin-left: 450px;
+  padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+}
+#cabbagehead {margin-left: 500px;
+height: 500px;
+}
+
+body {
+    background-image: url(http://enjoycss.com/webshots/hq_0.png);
+}

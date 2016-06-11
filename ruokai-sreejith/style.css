@@ -1,0 +1,33 @@
+h1 {
+  text-align:center;
+
+  color: red;
+  font-family: 'Open Sans', sans-serif;
+}
+h2{
+  text-align:center;
+  color: red;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#arsenal {
+  margin-left:800px;
+  width: 300px;
+}
+#arsenal2{
+  margin-left:130px;
+}
+p{
+  margin-left:500px;
+  margin-right:500px;
+  text-align:center;
+font-family: 'Open Sans', sans-serif;
+}
+ol{
+  text-align:center;
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+  background-color:#ffe6e6;
+
+}

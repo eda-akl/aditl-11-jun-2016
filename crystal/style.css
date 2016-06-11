@@ -1,0 +1,100 @@
+h1 {
+  color: blue;
+}
+h1{
+  margin-left: 250px
+}
+h1{
+  font-family: monospace;
+}
+h1{
+  font-size: 80px;
+}
+
+body{
+  background-image: url(https://cdn.theatlantic.com/assets/media/img/photo/2015/11/images-from-the-2016-sony-world-pho/s01_130921474920553591/main_900.jpg?1448476701);;
+}
+
+h2{ color: yellow;
+}
+h2{margin-left: 600px;}
+
+
+
+
+#textytexty1{
+  margin-top: 200px;
+}
+
+
+
+
+#donkeyimage{
+margin-top: 100px;
+}
+  #donkeyimage {
+  width: 800px;
+}
+#donkeyimage{
+  height: 500px
+}
+#donkeyimage {
+  margin-left: 315px;
+}
+
+
+
+#cabbageimage {
+  width: 800px
+}
+#cabbageimage {
+  height: 500px
+}
+#cabbageimage{
+  margin-left: 315px;
+}
+p{
+  font-family: "lucida console"
+}
+p{ font-size: 40px;
+}
+p{ color: white;
+}
+
+
+#cabbagecopy{
+  font-family: "comic sans"
+}
+#cabbagecopy{
+  margin-left: 500px;
+}
+#cabbagecopy{
+  margin-top: 200px;
+}
+
+
+
+#justincopy{
+  font-family: wingdings;
+}
+
+
+#bieberlove{
+  margin-left: 500px;
+}
+#bieberlove{
+  margin-top: 100px;
+}
+
+#followme{
+  font-style: tahoma;
+}
+#followme{
+  font-size: 20px;
+}
+#followme{
+  color: lightpink;
+}
+#followme{
+  margin-top: 100px;
+}
